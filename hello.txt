@@ -1,3 +1,4 @@
 hello git! master test
 thr-fix,fix-test
 gitHub commites will pull localhost
+shh public key add test
